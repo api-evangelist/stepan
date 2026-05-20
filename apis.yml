@@ -26,6 +26,8 @@ apis:
     description: >-
       The Stepan Company API provides access to platform services and data for enterprise integration and automation.
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/stepan-company
   - type: Website
     url: https://www.stepan.com
 maintainers:
